@@ -43,7 +43,7 @@ Python developer
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API-->
 
 <div align="center" style="margin: 40px 0">
-   <a href="">
+   <a href="https://github.com/dimmoon69">
        <img width="175px" src="https://komarev.com/ghpvc/?username=dimmoon69&color=DE002D">
    </a>
 </div>
