@@ -2,17 +2,18 @@
 Python developer
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true"/></a>
-   <a href="https://github.com/dimmoon69/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmoon69&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&count_private=true">
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&count_private=true&include_all_commits=true&count_private=true&show_owner=true"/>
+   </a>
+   <a href="https://github.com/dimmoon69/github-readme-stats">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmoon69&layout=compact"/>
+   </a>
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <!--<a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+   </a>-->
    <a href="https://t.me/djangolpython">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
@@ -32,6 +33,7 @@ Python developer
 *   MySQL, PostgreSQL, MongoDB, Redis, SQLite3
 *   Django, Django REST framework, Flask, FastApi
 *   GitHub/GitLab/Bitbucket/Jenkins (CI/CD)
+*   Docker
 
 <!--### My opensource projects
 
