@@ -3,7 +3,7 @@ Senior Software Engineer with more than 5 years of commertial experience. I have
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dimmoon6&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=dimmoon6&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/dimmoon69/github-readme-stats"><img height=150
@@ -14,7 +14,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    <a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://t.me/djangolpython">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
@@ -43,7 +43,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   <a href="https://github.com/dimmoon69/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=dimmoon69&color=DE002D">
    </a>
 </div>
