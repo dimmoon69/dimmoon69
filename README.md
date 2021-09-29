@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi, I'm Roman 👋
+# Hi, I'm Dmitry 👋
 Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
