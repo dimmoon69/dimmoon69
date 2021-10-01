@@ -11,6 +11,15 @@ Python developer
 </p>
 
 <p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&count_private=true&include_all_commits=true">
+      <img height=150 src="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&count_private=true&include_all_commits=true"/>
+   </a>
+   <a href="https://github.com/dimmoon69/github-readme-stats">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmoon69&layout=compact"/>
+   </a>
+</p>
+
+<p align='center'>
    <!--<a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>-->
