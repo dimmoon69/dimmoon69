@@ -38,7 +38,7 @@ Python developer
 ## 🛠 Projects
 *   <a href='https://com-neurology.ru/' target="_blank">Neurology</a>
 *   <a href='https://print.noscripts.ru/' target="_blank">Print</a>
-*   <a href='https://hamster.noscripts.ru/' target="_blank">Hamster Kombat</a> <a href='https://t.me/clone_hamster_kombat_bot/HamsterKombatCloneApp' target="_blank">Telegram Hamster Kombat</a>
+*   <a href='https://hamster.noscripts.ru/' target="_blank">Hamster Kombat</a> or open in Telegram <a href='https://t.me/clone_hamster_kombat_bot/HamsterKombatCloneApp' target="_blank">Hamster Kombat</a>
 
 <!--### My opensource projects
 
