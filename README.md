@@ -36,10 +36,9 @@ Python developer
 *   Docker
 
 ## 🛠 Projects
-*   <a href='https://com-neurology.ru/'>Neurology</a>
-*   <a href='https://print.noscripts.ru/'>Print</a>
-*   <a href='https://hamster.noscripts.ru/'>Hamster Kombat</a>
-*   <a href='https://t.me/clone_hamster_kombat_bot/HamsterKombatCloneApp'>Telegram Hamster Kombat</a>
+*   <a href='https://com-neurology.ru/' target="_blank">Neurology</a>
+*   <a href='https://print.noscripts.ru/' target="_blank">Print</a>
+*   <a href='https://hamster.noscripts.ru/' target="_blank">Hamster Kombat</a> <a href='https://t.me/clone_hamster_kombat_bot/HamsterKombatCloneApp' target="_blank">Telegram Hamster Kombat</a>
 
 <!--### My opensource projects
 
