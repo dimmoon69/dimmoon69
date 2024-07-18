@@ -36,8 +36,9 @@ Python developer
 *   Docker
 
 ## 🛠 Projects
-*
-*
+*   <a href='https://com-neurology.ru/)'>Neurology</a>
+*   <a href='https://print.noscripts.ru/'>Print</a>
+*   <a href='https://hamster.noscripts.ru/'>Hamster Kombat</a>
 
 <!--### My opensource projects
 
