@@ -36,9 +36,11 @@ Python developer
 *   Docker
 
 ## 🛠 Projects
+*   <a href='https://support.favorx.ru/' target="_blank">Electronic Support System</a>
 *   <a href='https://com-neurology.ru/' target="_blank">Neurology</a>
 *   <a href='https://print.noscripts.ru/' target="_blank">Print</a>
 *   <a href='https://hamster.noscripts.ru/' target="_blank">Hamster Kombat</a> or open in Telegram <a href='https://t.me/clone_hamster_kombat_bot/HamsterKombatCloneApp' target="_blank">Hamster Kombat</a>
+*   Telegram Bot for stomatology<a href='https://t.me/orthofriends_bot'>orthofriends</a>
 
 <!--### My opensource projects
 
