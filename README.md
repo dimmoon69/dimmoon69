@@ -36,6 +36,7 @@ Python developer
 *   Docker
 
 ## 🛠 Projects
+*   <a href='https://deepskills.ru/' target="_blank">Online programming training courses</a>
 *   <a href='https://support.favorx.ru/' target="_blank">Electronic Support System</a>
 *   <a href='https://com-neurology.ru/' target="_blank">Neurology</a>
 *   <a href='https://print.noscripts.ru/' target="_blank">Print</a>
