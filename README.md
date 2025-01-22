@@ -1,5 +1,4 @@
-# Hi, I'm Dmitry 👋
-Python developer
+# Hi, I'm Dmitry 👋 Python developer
 
 <p align='center'>
    <a href="https://github.com/anuraghazra/github-readme-stats">
