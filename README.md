@@ -2,15 +2,20 @@
 Python developer
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&show_icons=true&count_private=true&include_all_commits=true">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api?username=dimmoon69&show_icons=true&show_icons=true&count_private=true&include_all_commits=true"/>
    </a>
    <a href="https://github.com/dimmoon69/github-readme-stats">
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmoon69&layout=compact"/>
    </a>
 </p>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" />
+</a> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 
 <p align='center'>
    <!--<a href="https://www.linkedin.com/in/romankh3/">
